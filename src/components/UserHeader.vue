@@ -38,5 +38,5 @@ export default {
 <style scoped>
     a.router-link-exact-active.router-link-active {
     color: #C61E59;
-  }
+  } 
 </style>
